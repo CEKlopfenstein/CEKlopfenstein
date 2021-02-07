@@ -1,5 +1,8 @@
-### Hi there 👋
+### Studying Computer Science as a Junior in College.
 
+Currently Taking
+- Intro to C and Unix
+- Computer Networks
 <!--
 **CEKlopfenstein/CEKlopfenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
