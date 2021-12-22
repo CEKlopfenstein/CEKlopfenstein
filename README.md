@@ -1,9 +1,10 @@
 ### Studying Computer Science as a Junior in College.
 
 Currently Taking
-- Operating System Design
-- Intro To Data Base Systems
-- Programming Language Design
+- Computers in Society
+- Software Engineering
+- Analysis of Engineering
+- Artificial Intellegence
 
 Completed Courses
 - Intro To Computer Science I (Java and Object-Oriented Programming Intro)
@@ -12,6 +13,9 @@ Completed Courses
 - Computer Architecture
 - Intro to C and Unix
 - Computer Networks
+- Operating System Design
+- Intro To Data Base Systems
+- Programming Language Design
 <!--
 **CEKlopfenstein/CEKlopfenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
