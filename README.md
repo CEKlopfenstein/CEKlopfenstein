@@ -6,7 +6,7 @@ Currently Taking
 - Analysis of Engineering
 - Artificial Intellegence
 
-Completed Courses
+Completed CS Courses
 - Intro To Computer Science I (Java and Object-Oriented Programming Intro)
 - Intro To Computer Science II (Java and Object-Oriented Programming and JavaFX)
 - Data Structures
