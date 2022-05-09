@@ -1,10 +1,11 @@
-### Studying Computer Science as a Junior in College.
+### Studying Computer Science in College.
+Senior Year Starting Fall 2022
 
-Currently Taking
-- Computers in Society
-- Software Engineering
-- Analysis of Engineering
-- Artificial Intellegence
+Currently Taking in the Fall
+- Human Computer Interaction
+- Web App Development
+- Project Management
+- Part 1 of Senior Capstone
 
 Completed CS Courses
 - Intro To Computer Science I (Java and Object-Oriented Programming Intro)
@@ -16,6 +17,10 @@ Completed CS Courses
 - Operating System Design
 - Intro To Data Base Systems
 - Programming Language Design
+- Computers in Society
+- Software Engineering
+- Analysis of Engineering
+- Artificial Intellegence
 <!--
 **CEKlopfenstein/CEKlopfenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
