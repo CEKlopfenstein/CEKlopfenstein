@@ -20,7 +20,7 @@ Completed CS Courses
 - Computers in Society
 - Software Engineering
 - Analysis of Engineering
-- Artificial Intellegence
+- Artificial Intelligence
 <!--
 **CEKlopfenstein/CEKlopfenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
