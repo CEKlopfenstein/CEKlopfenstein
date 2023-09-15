@@ -1,26 +1,35 @@
-### Studying Computer Science in College.
-Senior Year Starting Fall 2022
+### 🔭 Currently working with Vaadin Professionally
+As well as attempting to keep up on personal projects. Unfortunately, I haven't had time recently. 😫
 
-Currently Taking in the Fall
-- Human Computer Interaction
-- Web App Development
-- Project Management
-- Part 1 of Senior Capstone
+### 🔨 Have worked with the following tools/languages/frameworks.
+- React.js
+- Vaadin
+- C
+- Java
+- Javascript
 
-Completed CS Courses
-- Intro To Computer Science I (Java and Object-Oriented Programming Intro)
-- Intro To Computer Science II (Java and Object-Oriented Programming and JavaFX)
-- Data Structures
-- Computer Architecture
-- Intro to C and Unix
-- Computer Networks
-- Operating System Design
-- Intro To Data Base Systems
-- Programming Language Design
-- Computers in Society
-- Software Engineering
-- Analysis of Engineering
-- Artificial Intelligence
+### 🎓 Graduated May 2023 with a GPA of 3.88
+- Intro To Computer Science &#8544; (Java and Object-Oriented Programming Intro) (Fall 2019)
+- Intro To Computer Science &#8545; (Java and Object-Oriented Programming and JavaFX) (Spring 2020)
+- Data Structures (Fall 2020)
+- Computer Architecture (Fall 2020)
+- Intro to C and Unix (Spring 2021)
+- Computer Networks (Spring 2021)
+- Operating System Design (Fall 2021)
+- Intro To Data Base Systems (Fall 2021)
+- Programming Language Design (Fall 2021)
+- Computers in Society (Spring 2022)
+- Software Engineering (Spring 2022)
+- Analysis of Engineering (Spring 2022)
+- Artificial Intelligence (Spring 2022)
+- Web App Development (Fall 2022)
+- Project Management (Fall 2022)
+- Human Computer Interaction (Fall 2022)
+- Senior Capstone &#8544; (Fall 2022)
+- Senior Capstone &#8545; (Spring 2023)
+- Computer Security (Spring 2023)
+- Numerical Analysis (Spring 2023)
+- Advance Database Systems (Spring 2023)
 <!--
 **CEKlopfenstein/CEKlopfenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
